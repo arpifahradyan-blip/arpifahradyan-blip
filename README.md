@@ -1,0 +1,22 @@
+
+# Hi, I'm Arpi Fahradyan 👋
+
+Computer Science & Cybersecurity student at Yerevan State University (YSU) focused on software architecture, C++ development, and Python automation.
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** C++, Python
+- **Tools & Version Control:** Git, GitHub Desktop, VS Code, Visual Studio
+- **Focus Areas:** Data Structures, Object-Oriented Programming (OOP), Systems & Cybersecurity
+
+---
+
+### 📌 Featured Projects
+- **[C++ Custom String ADT](https://github.com/arpifahradyan-blip/cpp-mystring-practice):** Memory-safe custom string class implementation in C++ featuring dynamic length calculation and safe string concatenation.
+
+---
+
+### 📬 Connect With Me
+- **LinkedIn:** [Arpi Fahradyan](https://www.linkedin.com/in/arpi-fahradyan-6400553b0)
+- **Email:** arpi.fahradyan@edu.ysu.am
