@@ -12,9 +12,10 @@ Computer Science & Cybersecurity student at Yerevan State University (YSU) focus
 
 ---
 
-### 📌 Featured Projects
-- **[C++ Custom String ADT](https://github.com/arpifahradyan-blip/cpp-mystring-practice):** Memory-safe custom string class implementation in C++ featuring dynamic length calculation and safe string concatenation.
+📌 Featured Projects
 
+* [C++ Stack ADT](https://github.com/arpifahradyan-blip/cpp-stack-practice): C++ Stack Abstract Data Type implementation featuring core LIFO operations, push/pop logic, and dynamic array handling.
+* [C++ Custom String ADT](https://github.com/arpifahradyan-blip/cpp-mystring-practice): Memory-safe custom string class implementation in C++ featuring dynamic length calculation and safe string concatenation.
 ---
 
 ### 📬 Connect With Me
