@@ -8,7 +8,7 @@ Computer Science & Cybersecurity student at Yerevan State University (YSU) focus
 ### 🛠 Tech Stack
 - **Languages:** C++, Python
 - **Tools & Version Control:** Git, GitHub Desktop, VS Code, Visual Studio
-- **Focus Areas:** Data Structures, Object-Oriented Programming (OOP), Systems & Cybersecurity
+- **Focus Areas:** Systems & Cybersecurity
 
 ---
 
