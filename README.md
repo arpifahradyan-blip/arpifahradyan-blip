@@ -11,7 +11,7 @@ Computer Science & Cybersecurity student at Yerevan State University (YSU) focus
 - **Focus Areas:** Systems & Cybersecurity
 
 ---
-
+[![HTB Academy Achievement](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://academy.hackthebox.com/achievement/badge/70f72d8b-bf33-11f1-9524-0affe7dfeb45)
 
 
 
