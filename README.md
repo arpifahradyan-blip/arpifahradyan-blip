@@ -1,7 +1,7 @@
 
 # Hi, I'm Arpi Fahradyan 👋
 
-Computer Science & Cybersecurity student at Yerevan State University (YSU) focused on software architecture, C++ development, and Python automation.
+Computer Science & Cybersecurity student at Yerevan State University (YSU) focused on software architecture
 
 ---
 
